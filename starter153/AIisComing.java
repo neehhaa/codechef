@@ -1,3 +1,5 @@
+package starter153;
+
 import java.util.Scanner;
 
 public class AIisComing {
